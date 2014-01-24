@@ -115,8 +115,8 @@ html_theme_options = {
     'navbar_links': [
     #    ("Examples", "examples"),
     ("Home", "http://9while9.com",),
-    ("Curriculum", "http://9while9.com/project",),
-    ("Readability", "http://9while9.com/readability",),
+    ("Curriculum", "http://9while9.com/project",True,),
+    ("Readability", "http://9while9.com/readability",True),
     ],
 
     # Render the next and previous page links in navbar. (Default: true)
@@ -127,7 +127,7 @@ html_theme_options = {
 
     # Global TOC depth for "site" navbar tab. (Default: 1)
     # Switching to -1 shows all levels.
-    'globaltoc_depth': 2,
+    'globaltoc_depth': 0,
 
     # Include hidden TOCs in Site navbar?
     #
