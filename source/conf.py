@@ -103,6 +103,7 @@ html_theme_options = {
     'navbar_title': "Resume",
 
     # Tab name for entire site. (Default: "Site")
+    'navbar_site_name': "Who",
     #'navbar_site_name': "Contents",
 
     # A list of tuples containing pages or urls to link to.
