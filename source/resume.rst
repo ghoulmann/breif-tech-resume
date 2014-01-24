@@ -2,9 +2,6 @@
 Rik Goldman (Systems Engineer)
 ==============================
 
-Richard (Rik) Goldman
-=====================
-
 Contact
 -------
 
