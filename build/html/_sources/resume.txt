@@ -10,34 +10,34 @@ Contact
 **Ubuntu**: http://wiki.ubuntu.com/rikgoldman
 
 Summary
-=======
+-------
 
 17 years of professional information-technology experience, growth,
 leadership, & advocacy.
 
 Skills
-======
+------
 
 System & Network Administration
--------------------------------
+===============================
 
 Manage organizational technology assets in multi-platform environments
 to service our shared missions & goals.
 
 Virtualization & Cloud
-----------------------
+======================
 
 Develop & administer cloud services, hosted web applications, &
 virtualized assets.
 
 Leadership & Collaboration
---------------------------
+==========================
 
 Proven ability to lead and manage a wide variety of infrastructure
 projects in team and independent situations.
 
 Technologies
-============
+------------
 
 -  SCM & CVS
 -  Shell Scripting
@@ -53,10 +53,10 @@ Technologies
 -  Solaris / Irix
 
 Professional Experience
-=======================
+-----------------------
 
 Chelsea School (2005-present)
------------------------------
+=============================
 
 *Director of Technology & Systems Engineer*
 
@@ -86,7 +86,7 @@ Chelsea School (2005-present)
    opportunities for department members
 
 Bethany College (2001-2003)
----------------------------
+===========================
 
 *Web Developer & Instructional Technologist*
 *Visiting Assistant Professor*
@@ -97,7 +97,7 @@ Bethany College (2001-2003)
    academic departments & admissions personnel
 
 Eberly College of Arts & Sciences (WVU) (1997-2001)
----------------------------------------------------
+===================================================
 
 *Systems Administrator, Web Developer, Database Architect*
 
@@ -111,10 +111,10 @@ Eberly College of Arts & Sciences (WVU) (1997-2001)
    research lab
 
 Community
-=========
+---------
 
 TurnKey Linux (2006-present)
-----------------------------
+============================
 
 *Winner, international development contest — 3rd Place*
 *Source and documentation contributor*
@@ -127,7 +127,7 @@ TurnKey Linux (2006-present)
    users
 
 Ubuntu (2006-present)
----------------------
+=====================
 
 *Appointed Member*
 
@@ -135,7 +135,7 @@ Ubuntu (2006-present)
 -  Active contributions to Maryland & DC LoCos (local communities)
 
 Open Source Contributor (2006-present)
---------------------------------------
+======================================
 
 *Source code and documentation contributor*
 
@@ -146,7 +146,7 @@ Open Source Contributor (2006-present)
 -  Sahana Agasti (LAMP)
 
 Byte Back, inc. (2009-2011)
----------------------------
+===========================
 
 *Volunteer*
 
@@ -156,21 +156,21 @@ Byte Back, inc. (2009-2011)
    adult learners
 
 Education
-=========
+---------
 
 O'Reilly School of Technology
------------------------------
+=============================
 
 *Open Source Programming Certificate (PHP, MySQL, Perl, Python)*
 
 West Virginia University — Morgantown, West Virginia
-----------------------------------------------------
+====================================================
 
 *Ph.D. (abd), M.A. (English & Digital Humanities)* — **3.7 GPA**, **Dean's List**
 
 
 Bethany College — Bethany, West Virginia
-----------------------------------------
+========================================
 
 *B.A. (English)* — **Magna Cum Laude, Honors, Dean's List**
 
