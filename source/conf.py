@@ -114,7 +114,7 @@ html_theme_options = {
     # an arbitrary url.
     'navbar_links': [
     #    ("Examples", "examples"),
-    ("Home", "http://9while9.com",),
+    ("Home", "http://9while9.com",True),
     ("Curriculum", "http://9while9.com/project",True,),
     ("Readability", "http://9while9.com/readability",True),
     ],
