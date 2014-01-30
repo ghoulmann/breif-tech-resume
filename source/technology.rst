@@ -184,4 +184,4 @@ Bethany College — Bethany, West Virginia
 
 
 .. _PDF: _static/rgoldman-consolidated-technology.pdf
-.. _Static HTML: _static/rgoldman-consolidated-resume.pdf
+.. _Static HTML: _static/rgoldman-consolidated-resume.html
