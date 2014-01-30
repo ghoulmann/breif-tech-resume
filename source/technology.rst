@@ -2,8 +2,8 @@
 Systems Engineer
 ================
 
-View
-----
+Alternative Views
+-----------------
 
 `Static HTML`_ or PDF_
 
@@ -183,5 +183,5 @@ Bethany College — Bethany, West Virginia
 *B.A. (English)* — **Magna Cum Laude, Honors, Dean's List**
 
 
-.. _PDF: http://9while9.com/vita/_static/rgoldman-consolidated-technology.pdf
-.. _Static HTML: http://9while9.com/vita/_static/rgoldman-consolidated-resume.pdf
+.. _PDF: http://9while9.com/vita/rgoldman-consolidated-technology.pdf
+.. _Static HTML: http://9while9.com/rgoldman-consolidated-resume.pdf
